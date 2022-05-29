@@ -1,0 +1,19 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edu18RR/spiderverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edu18RR/spiderverse/issues"
+  },
+  "homepage": "https://github.com/edu18RR/spiderverse#readme"
+}
